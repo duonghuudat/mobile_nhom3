@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "637006346220",
+    "firebase_url": "https://cooking-guide-app-9cf34-default-rtdb.firebaseio.com",
+    "project_id": "cooking-guide-app-9cf34",
+    "storage_bucket": "cooking-guide-app-9cf34.appspot.com"
+
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637006346220:android:fd57dcdb79614409adf2c9",
+        "android_client_info": {
+          "package_name": "com.example.cookingguideapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYhVVdW4LzRoeIIW0_l9JNRWuvis1LRfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,548 @@
+           {
+                "recipes": [
+                    {
+                        "id": "1",
+                        "title": "Kem chanh sửa",
+                        "description": "Kem chanh sửa",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://cdn.tgdd.vn/2021/09/CookProduct/kemchanh1200-1200x676.jpg",
+                        "ingredients":
+                            [{"amount":"1","name":"Chanh","unit":"quả"},{"amount":"150","name":"Kem tươi","unit":"ml"},{"amount":"3","name":"Bột gelatin","unit":"g"},{"amount":"100","name":"Sữa đặc","unit":"g"},{"amount":"25","name":"Nước cốt chanh","unit":"ml"},{"amount":"40","name":"Đường","unit":"g"}]
+
+                        ,
+                        "steps": 
+                            [{"description":"Dùng dao bào bào nhuyễn khoảng 1 muỗng cà phê vỏ chanh. Cho bột gelatin và nước lọc vào chén ngâm khoảng 15 phút.","step_order":1},{"description":"Cho bột gelatin đã ngâm nở vào nước cốt chanh rồi đem hấp cách thủy khoảng 3 phút.","step_order":2},{"description":"Cho sữa đặc và phần vỏ chanh đã bào vào hỗn hợp khuấy đều.","step_order":3},{"description":"Cho kem tươi và đường vào máy xay sinh tố và xay khoảng 3 phút. Sau đó cho sữa đặc, gelatin và chanh vào xay thêm khoảng 2 phút.","step_order":4},{"description":"Cho hỗn hợp kem vào khuôn rồi để ở ngăn đông lạnh 3 - 4 tiếng.","step_order":5}]
+                        ,
+                        "tags": 
+                            ["Ăn vặt"]
+                    },
+
+                    {
+                        "id": "2",
+                        "title": "Bánh tráng trộn tốp mỡ",
+                        "description": "Dĩa bánh tráng trộn tốp mỡ vô cùng đẹp mắt mà hương vị thơm ngon, lạ miệng.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://cdn.tgdd.vn/2021/10/CookRecipe/GalleryStep/thanh-pham-598.jpg",
+                        "ingredients":
+                            [{"amount":"200","name":"Bánh tráng","unit":"g"},{"amount":"400","name":"Mỡ heo","unit":"g"},{"amount":"2","name":"Sa tế","unit":"muỗng canh"},{"amount":"2","name":"Giấm","unit":"muỗng canh"},{"amount":"2","name":"Sả băm","unit":"muỗng canh"},{"amount":"2","name":"Hành tím băm","unit":"muỗng canh"},{"amount":"2","name":"Tỏi băm","unit":"muỗng canh"},{"amount":"2","name":"Hành tây băm","unit":"muỗng canh"},{"amount":"1","name":"Tương ớt","unit":"muỗng canh"},{"amount":"1","name":"Hành lá","unit":"nhánh"},{"amount":"1/2","name":"Muối","unit":"muỗng cà phê"},{"amount":"1/2","name":"Đường","unit":"muỗng cà phê"}]
+                        ,
+                        "steps":
+                            [{"description":"Mỡ heo rửa sạch với muối để ráo nước và cắt thành lát vuông. Hành lá rửa xong cắt nhỏ.","step_order":1},{"description":"Chiên mỡ heo khoảng tầm 15 phút đến khi vàng đều thì tắt bếp.","step_order":2},{"description":"Cho sả, tỏi, hành tím, hành tây băm vào phi thơm rồi cho thêm gia vị và nước vào đảo đều đên khi đặc sánh lại.","step_order":3},{"description":"Thêm hành lá và tóp mỡ vào hộp hợp đảo điều tầm 3 - 5 phút rồi tắt bếp.","step_order":4},{"description":"Cho bánh tráng vào thao, cho nước sốt tóp mỡ lên và trộn đều. Sau đó cho ra dĩa.","step_order":5}]                        
+                        ,
+                        "tags":
+                            ["Ăn vặt"]
+                        
+                    },
+
+                    {
+                        "id": "3",
+                        "title": "Bánh bò hấp sữa tươi ",
+                        "description": "Bánh bò hấp sữa tươi là món ăn vặt thơm ngon, mềm xốp, thích hợp nhâm nhi ăn chơi những lúc thư giãn. Cách làm bánh bò hấp siêu đơn giản mà thành phẩm lại vô cùng hấp dẫn. Những chiếc bánh bò hấp to tròn, có nguyên liệu dễ kiếm, thích hợp cho những người mới tập làm bánh.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/16941/s640/recipe16941-635980565058395179.jpg",
+                        "ingredients":
+                            [{"amount":"3","name":"Trứng gà","unit":"quả"},{"amount":"200","name":"Bột mì","unit":"g"},{"amount":"200","name":"Đường trắng","unit":"g"},{"amount":"220","name":"Sữa tươi","unit":"ml"},{"amount":"40","name":"Bơ","unit":"g"},{"amount":"2","name":"Dầu ăn","unit":"muỗng canh"},{"amount":"1/2","name":"Muối","unit":"muỗng cà phê"},{"amount":"6","name":"Men nở","unit":"g"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Làm bánh bò hấp: Cho trứng gà + đường + bơ + sữa tươi vào tô lớn, dùng phới lồng đánh tan. Sau đó, thêm 2 muỗng canh dầu ăn, tiếp tục đánh đều.","step_order":1},{"description":"Dùng 1 tô khác, cho bột mì và men nở, muối vào, trộn đều. Sau khi trộn, rây hỗn hợp bột khô này vào tô trứng, đánh đều tay cho bột tan hoàn toàn.","step_order":2},{"description":"Chuẩn bị khuôn nhôm, thoa một lớp dầu ăn mỏng vào khuôn. Cho bột bánh bò vào, nâng khuôn bánh lên và đặt khuôn xuống thật mạnh trên mặt bàn để bọt không khí vỡ, giúp bánh bò hấp không bị rổ, thực hiện thao tác này 3-4 lần. Để khoảng 1 tiếng cho bột bánh nghỉ.","step_order":3},{"description":"Đặt khuôn bánh vào xửng hấp đun sôi to lửa. Bánh bò hấp khoảng 30 phút. Khi dùng tăm xăm vào bánh bò, không thấy bánh bị dính tăm nghĩa là bánh đã chín. Chờ bánh nguội cho ra đĩa, trang trí thêm mứt trài cây hoặc chùm ruột. Khi ăn cắt bánh bò hấp thành những sữa tươi miếng tàm giác nhăm nhi cùng trà nóng là ngon cực.","step_order":4}]
+                        ,
+                        "tags":
+                            ["Ăn vặt"]
+                    },
+
+                    {
+                        "id": "4",
+                        "title": "Snack Khoai Tây Cà Rốt",
+                        "description": "Snack khoai tây với những miếng mỏng đã quá quen thuộc, vậy tại sao chúng ta không thử ngay cách làm snack khoai tây cà rốt chiên giòn rụm, beo béo nóng hổi vừa thổi vừa ăn cực ngon này nào. Món ăn vặt này làm cực nhanh và cực dễ nữa nên chị em lưu lại công thức và làm mỗi khi rãnh rỗi nhé.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g4/32336/s640/cooky-recipe-cover-r32336.jpg",
+                        "ingredients":
+                            [{"amount":"1","name":"Khoai tây","unit":"củ"},{"amount":"1","name":"Cà rốt","unit":"củ"},{"amount":"2","name":"Hành lá","unit":"cây"},{"amount":"1","name":"Trứng gà","unit":"quả"},{"amount":"20","name":"Bột bắp","unit":"g"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Khoai tây rửa sạch, đem luộc chín rồi lột vỏ nghiền mịn. Cà rốt gọt vỏ, bào vụn. Hành lá rửa sạch, thái nhỏ. Cho khoai tây, cà rốt và chút muối vào tô trộn đều. Tiếp đó cho trứng gà và bột bắp vào. Trộn từ từ, đều tay để hỗn hợp đặc sánh vừa đủ.","step_order":1},{"description":"Cho hỗn hợp bột khoai tây vào túi bắt kem, cắt ngay đầu một lỗ nhỏ. Đun nóng chảo ngập dầu, lấy túi bột bóp từ từ khoai vào, độ dài tùy vào sở thích của bạn nha. Chiên khoai tây cho đến khi vàng đều, giòn rụm thì vớt ra giấy thấm dầu.","step_order":2},{"description":"Khi ăn chấm khoai tây với tương ớt, sốt mayonnaise ngon hết nấc nha hoặc có thể ăn không. Snack khoai tây với những miếng mỏng đã quá quen thuộc, vậy tại sao chúng ta không thử ngay cách làm snack khoai tây cà rốt chiên giòn rụm, beo béo nóng hổi vừa thổi vừa ăn cực ngon này nào. Món ăn vặt này làm cực nhanh và cực dễ nữa nên chị em lưu lại công thức và làm mỗi khi rãnh rỗi nhé.","step_order":3}]
+                        ,
+                        "tags":
+                            ["Ăn vặt"]
+                    },
+
+                    {
+                        "id": "5",
+                        "title": "Ngô Chiên Bơ",
+                        "description": "Món ngô chiên có mùi thơm hấp dẫn, màu vàng đẹp mắt sẽ là món ăn vặt được yêu thích.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/11556/s640/recipe-635579270963704136.jpg",
+                        "ingredients":
+                            [{"amount":"2","name":"Ngô ngọt","unit":"bắp"},{"amount":"150","name":"Bột bắp","unit":"g"},{"amount":"60","name":"Bơ vàng","unit":"g"},{"amount":"1","name":"Trứng gà","unit":"quả"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Tách hạt ngô, rửa sạch qua rổ để mày ngô bong ra, để ráo. Trứng gà đánh tan.","step_order":1},{"description":"Đun một nồi nước sôi thêm xíu muối rồi thả ngô vào luộc khoảng 3 - 5 phút. Sau đó đổ ra rổ và xả lại bằng nước sạch cho hạt ngô được bóng mẩy. Rồi trộn đều gia vị vào ngô.","step_order":2},{"description":"Sau khi đánh tan trứng, đổ trứng vào cùng ngô khuấy đều lên. Sau đó cho bột vào đảo đều để ngô dính một lớp áo bột. Rồi dùng muôi thủng hoặc rây lọc ngô để phần bột rớt xuống.","step_order":3},{"description":"Bắc chảo lên bếp thêm dầu và bơ. Để bơ tan chảy và nóng già thì múc từng muỗng ngô vào chiên. Khi thấy lớp áo bột bọc ngô vàng đều thì cho ra đĩa có lót giấy thấm dầu. Làm như vậy đến khi hết ngô. Chúc các bạn thành công!","step_order":4}]
+                        ,
+                        "tags":
+                            ["Ăn vặt"]
+                    },
+
+                    {
+                        "id": "6",
+                        "title": "Chả Giò Bắp",
+                        "description": "Chả Giò Bắp là một món ngon được làm từ bắp, có thể ăn chơi hoặc ăn chay đều ngon. Cách nấu chả giò bắp với nhân làm từ hạt bắp nếp và bắp mỹ được bào nhỏ, trộn với nấm mèo và tàu hũ ky non cắt nhỏ. Được cuộn lại vừa tay và chiên giòn lên trong thật hấp dẫn. Hãy lưu lại cách làm chả giò bắp ngon lành này, rảnh rỗi làm mời cả nhà nhé!",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g1/4437/s640/recipe4437-635991860267278669.jpg",
+                        "ingredients":
+                            [{"amount":"2","name":"Ngô Mỹ","unit":"bắp"},{"amount":"2","name":"Ngô nếp","unit":"bắp"},{"amount":"200","name":"Tàu hũ ky","unit":"g"},{"amount":"30","name":"Nấm mèo","unit":"g"},{"amount":"4","name":"Ngò rí","unit":"nhánh"},{"amount":"20","name":"Hành boa rô","unit":"g"},{"amount":"1","name":"Hạt nêm chay","unit":"muỗng cà phê"},{"amount":"1/2","name":"Tiêu","unit":"muỗng cà phê"},{"amount":"1","name":"Nước mắm chay","unit":"muỗng canh"},{"amount":"1","name":"Bánh tráng","unit":"gói"},{"amount":"300","name":"Dầu ăn","unit":"ml"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Lột vỏ bắp, đặt úp 1 tô nhỏ vào trong 1 tô lớn, dựng đứng trái bắp lên lên đáy tô nhỏ, 1 tay giữ 1 đầu trái bắp, tay còn lại dùng dao cắt lấy hạt bắp.","step_order":1},{"description":"Rửa sạch tàu hũ ky non, thấm ráo nước rồi cắt nhuyễn. Ngâm nở nấm mèo, cắt nhuyễn.","step_order":2},{"description":"Làm nhân chả giò bắp: Cho nấm mèo, tàu hủ ky, boa rô và ngò rí đã cắt nhỏ vào cùng bắp. Nêm 1 muỗng cà phê hạt nêm và 1/2 muỗng cà phê tiêu. Dùng tay trộn cho các nguyên liệu quyện vào nhau.","step_order":3},{"description":"Cuộn chả giò bắp: Vỏ bánh tráng để cuốn dùng loại có màu vàng thì khi chiên sẽ có màu vàng đẹp. Múc nhân cho lên vỏ bánh tráng và cuốn như bình thường hay cuốn chả giò.","step_order":4},{"description":"Đun nóng già 300ml dầu ăn, cho các cuộn chả giò vào chiên chín vàng giòn thì vớt ra để ráo dầu. Với cách làm chả giò bắp ngon đơn giản này, có thể kết hợp ăn kèm với nước mắm chay chua ngọt nhé! Đảm bảo chả giò bắp sẽ rất đặc biệt trên mâm cơm gia đình đấy nhé.","step_order":5}]
+                        ,
+                        "tags":
+                            ["Món chay"]
+                     },
+
+                    {
+                        "id": "7",
+                        "title": "Há Cảo Chay",
+                        "description": "Há cảo chay chiên là món ăn lạ miệng sẽ giúp gia đình bạn thanh lọc cơ thể khỏi những bữa ăn nhiều thịt, không những thế còn giúp thay đổi khẩu vị cho cả nhà.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g1/6184/s640/recipe6184-635818163518928236.jpg",
+                        "ingredients":
+                            [{"amount":"200","name":"Măng tây","unit":"g"},{"amount":"20","name":"Gừng băm","unit":"g"},{"amount":"50","name":"Đậu nành","unit":"g"},{"amount":"400","name":"Đậu hũ non","unit":"g"},{"amount":"40","name":"Đậu Hà Lan","unit":"g"},{"amount":"2","name":"Hẹ","unit":"cọng"},{"amount":"2","name":"Hành lá","unit":"nhánh"},{"amount":"1","name":"Dầu mè","unit":"muỗng canh"},{"amount":"1/4","name":"Tiêu","unit":"muỗng cà phê"},{"amount":"1/3","name":"Đường trắng","unit":"muỗng cà phê"},{"amount":"1","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"200","name":"Dầu ăn","unit":"ml"},{"amount":"2","name":"Bột ngọt","unit":"g"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Tách các loại đậu cho vào tô. Rửa sạch măng tây và đậu hũ, cắt hạt lựu.","step_order":1},{"description":"Phi thơm gừng băm và 1 muỗng cà phê tỏi băm với 1 muỗng canh dầu mè rồi cho lần lượt măng tây, đậu Hà Lan, đậu nành, Hẹ và hành lá cắt nhỏ. Nêm vào 4g đường, 2g bột ngọt, 1/3 muỗng cà phê muối, 1/4 muỗng cà phê tiêu, đảo nhẹ tay. Khi hẹ héo thì tắt bếp, lọc qua rây bỏ nước.","step_order":2},{"description":"Cho hỗn hợp vào máy xay sơ qua để làm nhân. Không xay nhuyễn.","step_order":3},{"description":"Cho nhân vừa đủ miếng há cảo rồi gói lại.","step_order":4},{"description":"Đun nóng 200ml dầu ăn rồi cho há cảo vào chiên chín vàng thì vớt ra, để ráo dầu.","step_order":5},{"description":"Bày trí đẹp mắt, thưởng thức với thức chấm tùy thích.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Món chay"]
+                     },
+
+                    {
+                        "id": "8",
+                        "title": "Đậu Hũ Tẩm Rong Biển Mè Rang",
+                        "description": "Há cảo chay chiên là món ăn lạ miệng sẽ giúp gia đình bạn thanh lọc cơ thể khỏi những bữa ăn nhiều thịt, không những thế còn giúp thay đổi khẩu vị cho cả nhà.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g6/51546/s640/cooky-recipe-637128687670631260.jpg",
+                        "ingredients":
+                            [{"amount":"1","name":"Đậu hũ non","unit":"hộp"},{"amount":"1/2","name":"Bột chiên xù","unit":"chén"},{"amount":"1/2","name":"Bột mì","unit":"chén"},{"amount":"1","name":"Hạt nêm chay","unit":"muỗng cà phê"},{"amount":"1/2","name":"Muối","unit":"muỗng cà phê"},{"amount":"1","name":"Mè","unit":"muỗng canh"},{"amount":"1","name":"Rong biển khô","unit":"muỗng canh"},{"amount":"1","name":"Dầu ăn","unit":"chén"},{"amount":"1","name":"Xà lách","unit":"cây"},{"amount":"100","name":"Cà chua bi","unit":"g"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Xà lách và cà chua ngâm nước muối loãng sau đó rửa sạch. Cho 1/2 lượng bột mì trên bài vào tô cùng ít nước, nêm vào hạt nêm và muối nêm trên bài, khuấy tan đều sẽ có hỗn hợp bột nước sánh đặc. 1/2 bột mì còn lại cho ra đĩa dùng để áo đậu hũ khô. Bột xù cho ra đĩa cùng mè rang và rong biển xay. Trộn đều. Đậu hũ thấm khô sau đó cắt thành 2 miếng dài, dày đều nhau.","step_order":1},{"description":"Áo đậu hũ qua bột mì khô, sau đó nhúng qua bột ướt, rồi lăn vào bột xù. Làm tương tự với nhũng miếng đậu còn lại.","step_order":2},{"description":"Đun nóng dầu, cho đậu đã lăn bột vào chiên vàng đều. Gắp đậu đã vàng giòn ra rây cho ráo dầu.","step_order":3},{"description":"Trình bày: Xiên đậu hủ đã chiên vào xiên tre, đặt đậu hũ vào đĩa, ăn kèm tương ớt và xà lách, cà chua cho đầy đủ dưỡng chất nghen. Thưởng thức như món ăn chơi, món khai vị đãi tiệc hay dùng như món mặn ăn cơm đều hợp.","step_order":4}]
+                        ,
+                        "tags":
+                            ["Món chay"]
+                     },
+
+                     {
+                        "id": "9",
+                        "title": "Chả Cơm Tấm Chay",
+                        "description": "Cơm tấm sà - bì - chưởng thì dân Sài Gòn ai cũng mê rồi đúng không nè, vậy mà lỡ như ngày ăn chay mà vẫn muốn ăn cơm tấm có chả thì sao ta? Tự tay làm hẳn cả ổ ngon mê ly cùng cả nhà ăn luôn chứ sao nữa. Học hỏi một từ công thức của một chị, mình bỏ bớt một số nguyên liệu để cho ra công thức này này, mình sẽ chỉ chi tiết từng bước một cho các bạn nhé.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g6/51546/s640/cooky-recipe-637128687670631260.jpg",
+                        "ingredients":
+                            [{"amount":"2","name":"Đậu hũ non","unit":"miếng"},{"amount":"1/2","name":"Tàu hũ ky","unit":"chén"},{"amount":"1/2","name":"Nấm mèo","unit":"chén"},{"amount":"5","name":"Hạt nêm chay","unit":"muỗng cà phê"},{"amount":"40","name":"Bột gạo","unit":"g"},{"amount":"30","name":"Bột năng","unit":"g"},{"amount":"100","name":"Nước","unit":"ml"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Chuẩn bị các nguyên liệu và rửa sạch. Với nấm mèo và bún tàu các bạn ngâm nước cho nở ra trước sau đó cắt nhỏ theo sở thích. Ở đây mình cắt nhỏ để dễ ăn hơn. Dầu điều các bạn làm bằng cách đun nóng dầu ăn và thả hạt điều vào cho sôi 1 - 2 phút thì tắt bếp để nguội, vớt bỏ hạt điều. Phần tàu hủ và tàu hũ ky các bạn trụng nước sôi tầm 10 phút.","step_order":1},{"description":"Sau khi trụng qua trong nước sôi, các bạn vớt đậu hũ trắng và tàu hũ ky ra. Cho 2 loại này vào túi vắt, chú ý để đậu hũ trắng ở trong, bao quanh là tàu hủ ky. Vắt kiệt nước.","step_order":2},{"description":"Cho hỗn hợp vào cối xay, cùng với 30gr bột gạo và 30gr bột năng, xay đến khi mịn như trong hình là được nghen. Lấy chén múc tầm 1/2 chén ăn cơm để dành làm mặt trứng phía trên. Một lý do khiến công thức phải dùng bột là vì đậu hũ xay ra như này không kết dính như khi mình dùng trứng đó các bạn.","step_order":3},{"description":"Sau khi xay mịn, mình cho 4 muỗng canh hạt nêm nấm hương vào, hạt nêm này không mặn lắm nên mình cho nhiều, nếu như dùng muối hay bột canh chay, các bạn cân đối lại lượng gia vị nhen. Dầu điều các bạn cho khoảng 45ml để tạo màu cho phần chả của mình nha.","step_order":4}]
+                        ,
+                        "tags":
+                            ["Món chay"]
+                      },
+
+                    {
+                        "id": "10",
+                        "title": "Chả Giò Thập Cẩm Chay",
+                        "description": "Chả giò thập cẩm tuy không phải là những món quá mới lạ với những người ăn chay nhưng món này luôn được yêu thích bởi chúng rất dễ ăn mà làm lại nhanh nữa!",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g1/3841/s640/recipe3841-635684331731765648.jpg",
+                        "ingredients":
+                            [{"amount":"2","name":"Đậu hũ non","unit":"cái"},{"amount":"150","name":"Đậu phộng","unit":"chén"},{"amount":"1/2","name":"Giá đỗ","unit":"chén"},{"amount":"5","name":"Bún khô","unit":"muỗng cà phê"},{"amount":"3","name":"Nấm mèo","unit":"cái"},{"amount":"10","name":"Hành boa rô","unit":"g"},{"amount":"1","name":"Nấm hương","unit":"muỗng canh"},{"amount":"1/2","name":"Bia","unit":"muỗng cà phê"},{"amount":"4","name":"Tiêu","unit":"muỗng canh"},{"amount":"2","name":"Dầu ăn","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Nấm mèo, nấm hương ngâm nước cho nở rồi rửa sạch, cắt nhỏ. Bún tàu ngâm mềm, cắt nhỏ.","step_order":1},{"description":"Hành lá rửa sạch, cắt nhuyễn. Giá đỗ rửa sạch. Đậu phộng rang giã vụn.","step_order":2},{"description":"Cho bún tàu, nấm mèo, nấm hương, hành lá, giá đỗ, đậu phộng và đậu hũ bóp vụn vào tô, nêm thêm muối, đường, bột ngọt, tiêu, trộn đều đẻ làm nhân.","step_order":3},{"description":"Trải bánh tráng bía ra, phết lên 1 lớp bia cho mềm rồi cho nhân vào, cuộn lại. Lượng nhân tùy thích.","step_order":4},{"description":"Cho chả giò vào chiên ngập trong chảo dầu. Khi chả giò vàng gòn thì vớt ra, để ráo dầu.","step_order":5},{"description":"Bày chả giò ra đĩa, thưởng thức ngon với nước chấm tùy thích.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Món chay"]
+                      },
+
+                      {
+                        "id": "11",
+                        "title": "Gà Chiên Kiểu Hàn Quốc",
+                        "description": "Món gà chiên kiểu Hàn có vị cay cay ngọt ngọt kích thích vị giác và quan trọng là không có mùi dầu mỡ dễ tạo cảm giác ngấy cho bạn.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g1/2230/s640/recipe-635579140322834677.jpg",
+                        "ingredients":
+                            [{"amount":"400","name":"Đùi gà","unit":"g"},{"amount":"150","name":"Bột bắp","unit":"g"},{"amount":"1/2","name":"Mè trắng","unit":"chén"},{"amount":"5","name":"Đường trắng","unit":"muỗng cà phê"},{"amount":"3","name":"Rượu Soju","unit":"cái"},{"amount":"10","name":"Tương ớt","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Chuẩn bị các nguyên liệu. Đùi gà rửa sạch, để ráo nước, cho vào cái thau. Rắc muối, xóc đều và dùng màng bọc thực phẩm bọc kín, cho vào tủ lạnh trong 24h.","step_order":1},{"description":"Sau khi đã ướp đủ 24 tiếng, pha hỗn hợp sốt: Đường, rượu soju, tương ớt, nước tương, tỏi băm, gừng băm, dầu mè vào 1 cái chén, khuấy đều cho tan đường.","step_order":2},{"description":"Rắc bột bắp cho đều miếng gà, dùng cọ quét cho phần bột thừa rớt xuống.","step_order":3},{"description":"Cho dầu vào chảo, chờ dầu nóng cho gà vào chiên vàng, vớt ra để vào giấy thấm dầu.","step_order":4},{"description":"Cho nước sốt vào 1 nồi khác nấu cho đến khi nước sốt hơi sệt lại.","step_order":5},{"description":"\nĐổ phần sốt đã nấu vào 1 tô có lót  rây để lược bỏ cặn. Cho gà đã chiên vào tô sốt đã được lược sạch. Trộn đều cho sốt bám đều xung quanh gà","step_order":6}]
+                        ,
+                        "tags":
+                            ["Gà"]
+                       },
+
+                       {
+                        "id": "12",
+                        "title": "Cánh Gà Ướp Kimchi Nướng",
+                        "description": "Món gà chiên kiểu Hàn có vị cay cay ngọt ngọt kích thích vị giác và quan trọng là không có mùi dầu mỡ dễ tạo cảm giác ngấy cho bạn.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/11120/s640/recipe11120-635700463430535230.jpg",
+                        "ingredients":
+                            [{"amount":"400","name":"Đùi gà","unit":"g"},{"amount":"1","name":"Kimchi","unit":"chén"},{"amount":"1/2","name":"Mè trắng","unit":"chén"},{"amount":"5","name":"Đường trắng","unit":"muỗng cà phê"},{"amount":"3","name":"Rượu Soju","unit":"cái"},{"amount":"10","name":"Tương ớt","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Chuẩn bị các nguyên liệu. Đùi gà rửa sạch, để ráo nước, cho vào cái thau. Rắc muối, xóc đều và dùng màng bọc thực phẩm bọc kín, cho vào tủ lạnh trong 24h.","step_order":1},{"description":"Sau khi đã ướp đủ 24 tiếng, pha hỗn hợp sốt: Đường, rượu soju, tương ớt, nước tương, tỏi băm, gừng băm, dầu mè vào 1 cái chén, khuấy đều cho tan đường.","step_order":2},{"description":"Rắc bột bắp cho đều miếng gà, dùng cọ quét cho phần bột thừa rớt xuống.","step_order":3},{"description":"Cho dầu vào chảo, chờ dầu nóng cho gà vào chiên vàng, vớt ra để vào giấy thấm dầu.","step_order":4},{"description":"Cho nước sốt vào 1 nồi khác nấu cho đến khi nước sốt hơi sệt lại.","step_order":5},{"description":"\nĐổ phần sốt đã nấu vào 1 tô có lót  rây để lược bỏ cặn. Cho gà đã chiên vào tô sốt đã được lược sạch. Trộn đều cho sốt bám đều xung quanh gà","step_order":6}]
+                        ,
+                        "tags":
+                            ["Gà"]
+                       },
+
+                       {
+                        "id": "13",
+                        "title": "Gà Nướng Chua Cay",
+                        "description": "Gia vị ướp của Hàn Quốc sẽ mang hương vị rất đặc biệt, làm cho món gà nướng của bạn trở nên rất đặc biệt luôn đấy! Công việc của bạn chỉ là đi chợ, mua thịt gà, gia vị và chuẩn bị 1 cái lò nướng là có thể làm được rồi!",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/14705/s640/recipe14705-635617567722515129.jpg",
+                        "ingredients":
+                            [{"amount":"400","name":"Đùi gà","unit":"g"},{"amount":"2","name":"Chanh","unit":"trái"},{"amount":"1/2","name":"Mè trắng","unit":"chén"},{"amount":"5","name":"Đường trắng","unit":"muỗng cà phê"},{"amount":"3","name":"Rượu Soju","unit":"cái"},{"amount":"10","name":"Tương ớt","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Chuẩn bị các nguyên liệu. Đùi gà rửa sạch, để ráo nước, cho vào cái thau. Rắc muối, xóc đều và dùng màng bọc thực phẩm bọc kín, cho vào tủ lạnh trong 24h.","step_order":1},{"description":"Sau khi đã ướp đủ 24 tiếng, pha hỗn hợp sốt: Đường, rượu soju, tương ớt, nước tương, tỏi băm, gừng băm, dầu mè vào 1 cái chén, khuấy đều cho tan đường.","step_order":2},{"description":"Rắc bột bắp cho đều miếng gà, dùng cọ quét cho phần bột thừa rớt xuống.","step_order":3},{"description":"Cho dầu vào chảo, chờ dầu nóng cho gà vào chiên vàng, vớt ra để vào giấy thấm dầu.","step_order":4},{"description":"Cho nước sốt vào 1 nồi khác nấu cho đến khi nước sốt hơi sệt lại.","step_order":5},{"description":"\nĐổ phần sốt đã nấu vào 1 tô có lót  rây để lược bỏ cặn. Cho gà đã chiên vào tô sốt đã được lược sạch. Trộn đều cho sốt bám đều xung quanh gà","step_order":6}]
+                        ,
+                        "tags":
+                            ["Gà"]
+                       },
+
+                       {
+                        "id": "14",
+                        "title": "Gà om (Dakijim) ",
+                        "description": "Là món gà miếng hầm gia vị với nhiều loại rau như hành tây, cà rốt, bạch quả, rất được người Hàn Quốc yêu thích. Bạn yêu thích món Hàn thì đừng bỏ qua công thức này nhé!",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/12719/s640/recipe12719-635695328252880516.jpg",
+                        "ingredients":
+                            [{"amount":"400","name":"Đùi gà","unit":"g"},{"amount":"2","name":"Trứng gà","unit":"quả"},{"amount":"1/2","name":"Mè trắng","unit":"chén"},{"amount":"5","name":"Đường trắng","unit":"muỗng cà phê"},{"amount":"3","name":"Rượu Soju","unit":"cái"},{"amount":"10","name":"Tương ớt","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Lọc bỏ mỡ gà, rửa sạch, chặt miếng vừa ăn. Đổ nước vào nồi, bật lửa lớn 5 phút. Khi nước sôi làm sạch thịt gà bằng cách luộc sơ 2 phút, rồi vớt ra.","step_order":1},{"description":"Sau khi đã ướp đủ 24 tiếng, pha hỗn hợp sốt: Đường, rượu soju, tương ớt, nước tương, tỏi băm, gừng băm, dầu mè vào 1 cái chén, khuấy đều cho tan đường.","step_order":2},{"description":"Rắc bột bắp cho đều miếng gà, dùng cọ quét cho phần bột thừa rớt xuống.","step_order":3},{"description":"Cho dầu vào chảo, chờ dầu nóng cho gà vào chiên vàng, vớt ra để vào giấy thấm dầu.","step_order":4},{"description":"Cho nước sốt vào 1 nồi khác nấu cho đến khi nước sốt hơi sệt lại.","step_order":5},{"description":"\nĐổ phần sốt đã nấu vào 1 tô có lót  rây để lược bỏ cặn. Cho gà đã chiên vào tô sốt đã được lược sạch. Trộn đều cho sốt bám đều xung quanh gà","step_order":6}]
+                        ,
+                        "tags":
+                            ["Gà"]
+                       },
+
+                       {
+                        "id": "15",
+                        "title": "Cánh Gà Chiên Sữa",
+                        "description": "Sữa tươi có rất nhiều công dụng trong sức khỏe cũng như làm đẹp. Bên cạnh đó người Hàn Quốc còn vận dụng điều đó trong ẩm thực nữa đấy. Sữa tươi sẽ làm cho cánh gà mềm và bớt mùi tanh đó! Bạn tin không? Cùng làm món cánh gà chiên sữa là biết liền. ",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/12719/s640/recipe12719-635695328252880516.jpg",
+                        "ingredients":
+                            [{"amount":"400","name":"Đùi gà","unit":"g"},{"amount":"2","name":"Trứng gà","unit":"quả"},{"amount":"1/2","name":"Mè trắng","unit":"chén"},{"amount":"5","name":"Đường trắng","unit":"muỗng cà phê"},{"amount":"3","name":"Rượu Soju","unit":"cái"},{"amount":"10","name":"Tương ớt","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Lọc bỏ mỡ gà, rửa sạch, chặt miếng vừa ăn. Đổ nước vào nồi, bật lửa lớn 5 phút. Khi nước sôi làm sạch thịt gà bằng cách luộc sơ 2 phút, rồi vớt ra.","step_order":1},{"description":"Sau khi đã ướp đủ 24 tiếng, pha hỗn hợp sốt: Đường, rượu soju, tương ớt, nước tương, tỏi băm, gừng băm, dầu mè vào 1 cái chén, khuấy đều cho tan đường.","step_order":2},{"description":"Rắc bột bắp cho đều miếng gà, dùng cọ quét cho phần bột thừa rớt xuống.","step_order":3},{"description":"Cho dầu vào chảo, chờ dầu nóng cho gà vào chiên vàng, vớt ra để vào giấy thấm dầu.","step_order":4},{"description":"Cho nước sốt vào 1 nồi khác nấu cho đến khi nước sốt hơi sệt lại.","step_order":5},{"description":"\nĐổ phần sốt đã nấu vào 1 tô có lót  rây để lược bỏ cặn. Cho gà đã chiên vào tô sốt đã được lược sạch. Trộn đều cho sốt bám đều xung quanh gà","step_order":6}]
+                        ,
+                        "tags":
+                            ["Gà"]
+                       },
+
+                       {
+                        "id": "16",
+                        "title": "Cá Chiên Sốt Chua Ngọt",
+                        "description": "Cá chiên giòn sốt chua ngọt với cách làm đơn giản nhưng hương vị lại hao cơm vô cùng. Miếng cá chiên có lớp vỏ ngoài giòn rụm, lớp thịt cá bên trong mềm mại được áo lên một lớp sốt chua ngọt, hội tụ đủ tứ vị lại thơm hương gừng tỏi hấp dẫn rất hợp ăn với cơm nóng. Món cá này khi chấm kèm với tương ớt hay nước mắm chua cay lại có thể là món nhắm ngon tuyệt đấy!",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/12719/s640/recipe12719-635695328252880516.jpg",
+                        "ingredients":
+                            [{"amount":"1","name":"Cá","unit":"con"},{"amount":"2","name":"Cà chua","unit":"quả"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Hành tây và ớt chuông cắt thành dải dài; Cà chua cắt miếng nhỏ. Chuẩn bị phần gia vị ướp cá: Hành tây cắt nhỏ, cho ra bát, trộn đều với gừng và rượu gạo trong bát nhỏ.","step_order":1},{"description":"Cá sau khi làm sạch, dùng khăn giấy thấm cho mình cá thật khô ráo rồi dùng dao khía 3 đường song song trên cả 2 bên mình cá. Lấy phần gừng và rượu bạn đã trộn ở bước 2 lên bôi đều khắp mình cá, mát xa trong giây lát để tăng độ thẩm thấu của gia vị. Kế đó rắc muối và hạt tiêu lên, ướp trong 20 phút.","step_order":2},{"description":"\nGạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"\nChuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Cá"]
+                       },
+
+                       {
+                        "id": "17",
+                        "title": "Cá Hấp Hành Lá",
+                        "description": "Món cá hấp với hương vị thơm ngon, thịt cá ngọt và chắc, hành lá xanh mướt mắt lại có vị gừng thơm át đi vị tanh của cá. Món ăn này vừa thích hợp để làm món nhậu mà ăn cùng cơm cũng ngon không kém đâu nhé!",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/12278/s640/recipe12278-636414133738276439.jpg",
+                        "ingredients":
+                            [{"amount":"1","name":"Cá","unit":"con"},{"amount":"2","name":"Cà chua","unit":"quả"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Hành tây và ớt chuông cắt thành dải dài; Cà chua cắt miếng nhỏ. Chuẩn bị phần gia vị ướp cá: Hành tây cắt nhỏ, cho ra bát, trộn đều với gừng và rượu gạo trong bát nhỏ.","step_order":1},{"description":"Cá sau khi làm sạch, dùng khăn giấy thấm cho mình cá thật khô ráo rồi dùng dao khía 3 đường song song trên cả 2 bên mình cá. Lấy phần gừng và rượu bạn đã trộn ở bước 2 lên bôi đều khắp mình cá, mát xa trong giây lát để tăng độ thẩm thấu của gia vị. Kế đó rắc muối và hạt tiêu lên, ướp trong 20 phút.","step_order":2},{"description":"\nGạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"\nChuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Cá"]
+                       },
+
+                       {
+                        "id": "18",
+                        "title": "Cá Hố Chiên Sốt Chua Ngọt",
+                        "description": "Nói đến cá hố, có lẽ nhiều người không sống ở các vùng biển sẽ cảm thấy khá lạ lẫm. Đây là loài cá mình dài và dẹt, rất dễ lóc xương, thịt ăn chắc ngọt đậm đà và rất được ưa chuộng ở nhiều nước Châu Á như Nhật, Hàn, Trung Quốc bởi cá ăn ngon mà giá thành lại không quá đắt đỏ. Người dân miền Trung - Nam nước ta cũng thường dùng cá hố trong các món kho, canh hay phơi khô trộn gỏi. Với món cá chiên sốt chua ngọt này, phần sốt sẽ là điểm nhấn cho món cá hố thêm đậm vị, ngon cơm.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g3/22008/s640/recipe22008-636414524891647463.jpg",
+                        "ingredients":
+                            [{"amount":"2","name":"Cá","unit":"con"},{"amount":"2","name":"Cà chua","unit":"quả"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Hành tây và ớt chuông cắt thành dải dài; Cà chua cắt miếng nhỏ. Chuẩn bị phần gia vị ướp cá: Hành tây cắt nhỏ, cho ra bát, trộn đều với gừng và rượu gạo trong bát nhỏ.","step_order":1},{"description":"Cá sau khi làm sạch, dùng khăn giấy thấm cho mình cá thật khô ráo rồi dùng dao khía 3 đường song song trên cả 2 bên mình cá. Lấy phần gừng và rượu bạn đã trộn ở bước 2 lên bôi đều khắp mình cá, mát xa trong giây lát để tăng độ thẩm thấu của gia vị. Kế đó rắc muối và hạt tiêu lên, ướp trong 20 phút.","step_order":2},{"description":"\nGạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"\nChuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Cá"]
+                       },
+
+                       {
+                        "id": "19",
+                        "title": "Cá Chốt Kho Tiêu",
+                        "description": "https://image.cooky.vn/recipe/g2/18877/s640/recipe18877-636222597644016520.jpg",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/12719/s640/recipe12719-635695328252880516.jpg",
+                        "ingredients":
+                            [{"amount":"400","name":"Cá chốt","unit":"g"},{"amount":"3","name":"Ớt","unit":"trái"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"HCá chốt mua về sơ chế hơi cực một chút, cắt bỏ xéo đầu, bỏ râu và các cạnh gai nhọn, vây. Cá chốt kho tiêu ngon nên chọn còn tươi sống, mắt sáng, chọn được con cái có trứng là tuyệt vời luôn","step_order":1},{"description":"Cá sau khi làm sạch, dùng khăn giấy thấm cho mình cá thật khô ráo rồi dùng dao khía 3 đường song song trên cả 2 bên mình cá. Lấy phần gừng và rượu bạn đã trộn ở bước 2 lên bôi đều khắp mình cá, mát xa trong giây lát để tăng độ thẩm thấu của gia vị. Kế đó rắc muối và hạt tiêu lên, ướp trong 20 phút.","step_order":2},{"description":"Gạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"Chuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Cá"]
+                       },
+
+                       {
+                        "id": "20",
+                        "title": "Cá Basa Nướng ",
+                        "description": "Cá basa với vị ngon và nhiều dưỡng chất, chứa nhiều chất đạm, DHA, EPA và ít béo, ít cholesterol. Cá basa phi lê nướng là món ăn rất được nhiều người ưa thích đấy nhé!",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g1/7398/s640/recipe7398-636016662316056164.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Cá phi lê","unit":"g"},{"amount":"2","name":"Cà chua","unit":"quả"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Phi lê cá rửa sạch, lau khô miếng cá. Chuẩn bị các gia vị, hành lá và ngò rí băm nhỏ.","step_order":1},{"description":"Trộn gia vị lại với nhau. Chén thứ nhất gồm: 1/2 muỗng ăn cơm tương đậu Hàn Quốc. 1 muỗng ăn cơm tương ớt Hàn Quốc. Ít hành lá. Mè trắng rang và dầu mè. Chén gia vị thứ 2 gồm: 2 muỗng canh bơ. 1 muỗng canh muối tôm. Ít tỏi băm và ngòi rí băm nhuyễn. Trộn đều 2 chén gia vị để riêng.","step_order":2},{"description":"Gạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"Chuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Cá"]
+                       },
+
+                       {
+                        "id": "21",
+                        "title": "Mì bay  ",
+                        "description": "Mì bay là món ăn ngon bắt nguồn từ Singapore với những sợi mì được làm từ máy làm mì tươi treo lơ lửng trên đôi đũa như đang bay. Nhiều bạn trẻ cảm thấy thích thú với món ăn ngon này và truy lùng các địa chỉ bán nhưng khi ăn mì bay ngoài hàng, chi phí vô cùng đắt đỏ. Sau đây là cách làm mì bay tiết kiệm tại nhà nhưng vẫn giữ được hương vị hấp dẫn đặc trưng của món ăn đúng chuẩn Singapore.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/18445/s640/recipe18445-636136942092681215.jpg",
+                        "ingredients":
+                            [{"amount":"1","name":"Mì tôm","unit":"gói"},{"amount":"2","name":"Khoai tây ","unit":"củ"},{"amount":"1","name":"Hành lá","unit":"chén"},{"amount":"5","name":"Xúc xích","unit":"cái"},{"amount":"2","name":"Trứng","unit":"quả"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Phi lê cá rửa sạch, lau khô miếng cá. Chuẩn bị các gia vị, hành lá và ngò rí băm nhỏ.","step_order":1},{"description":"Trộn gia vị lại với nhau. Chén thứ nhất gồm: 1/2 muỗng ăn cơm tương đậu Hàn Quốc. 1 muỗng ăn cơm tương ớt Hàn Quốc. Ít hành lá. Mè trắng rang và dầu mè. Chén gia vị thứ 2 gồm: 2 muỗng canh bơ. 1 muỗng canh muối tôm. Ít tỏi băm và ngòi rí băm nhuyễn. Trộn đều 2 chén gia vị để riêng.","step_order":2},{"description":"Gạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"Chuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Mì"]
+                       },
+
+                       {
+                        "id": "22",
+                        "title": "Mỳ Ý Thịt Viên",
+                        "description": "Mì bay là món ăn ngon bắt nguồn từ Singapore với những sợi mì được làm từ máy làm mì tươi treo lơ lửng trên đôi đũa như đang bay. Nhiều bạn trẻ cảm thấy thích thú với món ăn ngon này và truy lùng các địa chỉ bán nhưng khi ăn mì bay ngoài hàng, chi phí vô cùng đắt đỏ. Sau đây là cách làm mì bay tiết kiệm tại nhà nhưng vẫn giữ được hương vị hấp dẫn đặc trưng của món ăn đúng chuẩn Singapore.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g1/7981/s640/recipe7981-635878407131789789.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Mì Ý","unit":"g"},{"amount":"2","name":"Cà chua","unit":"quả"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Đun sôi 1 lít nước với 1 muỗng cà phê dầu ăn, cho mì vào luộc chín rồi vớt ra để ráo nước. Hành tây băm nhỏ. Bánh mì ngâm trong nước khoảng 10 phút, sau đó vắt ráo, bóp nhuyễn.","step_order":1},{"description":"Trong một tô lớn, trộn đều thịt heo, 1/2 phần hành tây bằm nhuyễn, bánh mì, 1/4 muỗng cà phê tiêu, 2 muỗng cà phê đường, 1 muỗng cà phê bột súp gà, 1/4 muỗng cà phê muối, để khoảng nửa tiếng cho thịt thấm gia vị. Sau khi thịt thấm, vo thịt thành từng viên nhỏ vừa ăn, để vào một cái dĩa","step_order":2},{"description":"Gạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"Chuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Mì"]
+                       },
+
+                       {
+                        "id": "23",
+                        "title": "Mỳ Ý Sốt Bò Bằm ",
+                        "description": "Thay vì những bữa ăn ở nhà hàng đắt đỏ mà ăn xong vẫn cảm thấy thèm thuồng, sao chúng ta không tự chế biến mỳ Ý theo cách của riêng mình nhỉ?",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/12319/s640/recipe12319-635824161800618911.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Mì Ý","unit":"g"},{"amount":"2","name":"Cà chua","unit":"quả"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Thịt bò băm nhuyễn, ướp 1 nửa chỗ thịt với 1/3 muỗng cà phê muối, 1/2 muỗng cà phê đường và 1/3 muỗng cà phê tiêu. Tỏi đập dập, băm nhỏ và cho vào thịt, đảo đều rồi để yên trong 10 phút cho gia vị ngấm","step_order":1},{"description":"Cà chua rửa sạch, cắt nhỏ. Nấm ngâm nở cắt nhỏ.","step_order":2},{"description":"Gạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"Chuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Mì"]
+                       },
+
+                       {
+                        "id": "24",
+                        "title": "Mỳ Lạnh Cay Jjolmyeon ",
+                        "description": "Mì lạnh cay Jjolmyeon được phục vụ theo phong cách cơm trộn bibimbap với đủ nguyên liệu màu sắc bên trong và không ăn kèm nước dùng. Món mì này tương đối dai, nước sốt lại có vị ngọt, thường ăn kèm cùng giá đỗ, trứng luộc và dưa leo xắt nhỏ.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g4/35667/s640/cooky-recipe-636682501685195335.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Mì Ý","unit":"g"},{"amount":"2","name":"Cà chua","unit":"quả"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Trộn các thành phần nước sốt gia vị vào một cái bát và trộn đều. Lựa giá đỗ, sau đó rửa sạch và xả vài lần trong nước lạnh. Cho giá đỗ vào nồi và thêm 2 chén nước với ½ muỗng cà phê muối. Đậy nắp và đun sôi trong 12 phút trên lửa vừa. Đặt 1/2 số giá đỗ trong một bát trộn lớn.","step_order":1},{"description":"Cà chua rửa sạch, cắt nhỏ. Nấm ngâm nở cắt nhỏ.","step_order":2},{"description":"Gạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"Chuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Mì"]
+                       },
+
+                       {
+                        "id": "25",
+                        "title": "Mỳ Ý sốt bò bằm ",
+                        "description": "Thay vì những bữa ăn ở nhà hàng đắt đỏ mà ăn xong vẫn cảm thấy thèm thuồng, sao chúng ta không tự chế biến mỳ Ý theo cách của riêng mình nhỉ?",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g4/30118/s640/cooky-recipe-cover-r30118.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Mì Ý","unit":"g"},{"amount":"120","name":"Kimchi","unit":"g"},{"amount":"1/2","name":"Hành tây","unit":"chén"},{"amount":"5","name":"Ớt chuông","unit":"muỗng cà phê"},{"amount":"3","name":"Giấm","unit":"cái"},{"amount":"10","name":"Dầu olive","unit":"g"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Thịt ba thái dạng con chì, kim chi thái nhỏ, hành lá cắt khúc dài khoảng 5cm. Đun sôi một nồi nước, cho mì vào luộc, không cần chín quá kỹ, khi sờ thấy sợi mì mềm thì vớt ra xả với nước lạnh, để mì ráo nước. Làm sốt kim chi bằng cách cho nước ép kim chi vào cốc, thêm sốt gochujang vào hòa tan không bị vón cục.","step_order":1},{"description":"Cà chua rửa sạch, cắt nhỏ. Nấm ngâm nở cắt nhỏ.","step_order":2},{"description":"Gạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"Chuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Mì"]
+                       },
+
+                       {
+                        "id": "26",
+                        "title": "Thịt Ba Chỉ Kho Tiêu",
+                        "description": "Thịt Ba Chỉ Kho Tiêu là món ngon dễ làm, quen thuộc trong bữa cơm hằng ngày của gia đình. Cách kho thịt ba chỉ ngon, được chế biến bằng nồi đất và thắng riêng nước màu trông thật bắt mắt. Cách nấu thịt ba chỉ kho tiêu  ngon không hề khó mà thành phẩm không thể nào chê được. Đảm bảo món thịt ba chỉ kho tiêu này sẽ chiều lòng tất cả thành viên trong gia đình nhé.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/16683/s640/recipe16683-635935443520710085.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Thịt ba chỉ","unit":"g"},{"amount":"2","name":"Hành lá","unit":"nhánh"},{"amount":"1/2","name":"Hành tím băm","unit":"chén"},{"amount":"1","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"2","name":"Nước mắm","unit":"muỗng canh"},{"amount":"2","name":"Tiêu","unit":"muỗng cà phê"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Làm nước màu ướp thịt ba chỉ kho tiêu: Cho 1.5 muỗng cà phê đường và 3ml dầu ăn vào nồi đất, đun và dùng đũa khuấy đều cho đến khi đường cháy thành màu cánh kiến thì cho vào 40ml nước lọc, khuấy đều, tắt bếp.","step_order":1},{"description":"Rửa sạch thịt ba chỉ, cắt nhỏ vừa ăn rồi trộn đều với 1 muỗng cà phê tỏi băm, 2 muỗng canh nước mắm, 1/3 muỗng cà phê muối, 1 muỗng cà phê đường, 1/2 muỗng cà phê bột ngọt và 1 muỗng cà phê tiêu. Đổ thêm nước màu vừa đun vào thịt, ướp khoảng 10 phút.","step_order":2},{"description":"Cắt lấy đầu hành lá, chẻ nhỏ trang trí, phần lá cắt nhỏ.Cắt chóp đuôi của trái ớt nhỏ, tỉa hình hoa.","step_order":3},{"description":"Cách kho thịt ba chỉ: Trong nồi đất, đun nóng 2 muỗng canh dầu ăn rồi cho hành tím băm vào phi thơm. Dùng đũa gắp thịt đã ướp cho vào nồi, đảo đều tay.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Thịt"]
+                       },
+
+                       {
+                        "id": "27",
+                        "title": "Thịt Chiên Nước Mắm Kiểu Thái",
+                        "description": "Thịt Chiên Nước Mắm - món ăn ngon cực hấp dẫn, giúp đổi vị cho các bữa cơm gia đình. Cách làm thịt chiên nước mắm kiểu Thái béo mặn, chấm cùng nước mắm chua cay, mặn ngọt. Ăn kèm thịt chiên nước mắm cùng dưa leo và rau sống sẽ giúp đỡ ngấy mỡ hơn nhé. Chắc chắn cả nhà sẽ yêu thích đấy!",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g1/3482/s640/cooky-recipe-cover-r3482.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Thịt ba chỉ","unit":"g"},{"amount":"2","name":"Hành lá","unit":"nhánh"},{"amount":"1/2","name":"Hành tím băm","unit":"chén"},{"amount":"1","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"2","name":"Nước mắm","unit":"muỗng canh"},{"amount":"2","name":"Tiêu","unit":"muỗng cà phê"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Chuẩn bị làm thịt chiên nước mắm: Đầu tiên, bạn cho thịt vào tô lớn, thêm 45ml nước mắm, 15ml nước tương nhạt, 5g tiêu, 60g bột chiên giòn và 7g đường vào. Trộn đều thịt với gia vị. Ở một số công thức, người ta còn cho 1/2 quả trứng đánh đều vào cùng với thịt để lớp vỏ khi chiên có màu vàng hơn.","step_order":1},{"description":"Cách làm thịt chiên nước mắm: Trong chảo sâu lòng, bạn đổ dầu vào đun cho nóng. Khi dầu nóng, ta thả thịt vào chiên ngập dầu, cho đến khi phần vỏ miếng thịt chuyển màu vàng nâu và giòn lại thế này nhé!","step_order":2},{"description":"Gạt bỏ hết phần gia vị gừng vừa tẩm ướp ra, rồi rắc một lớp bột chiên giòn lên cá sao cho bột áo thành lớp mỏng khắp mình cá. Dùng bàn tay vỗ nhẹ phần bột bám trên cá để tăng độ bám dính.","step_order":3},{"description":"Chuẩn bị một chảo sâu lòng, thêm lượng dầu đủ ngập mình cá khi chiên. Chờ cho dầu thật nóng mới từ từ thả cá vào chiên cho đến khi vàng đều hai mặt thì vớt ra đĩa có lót giấy thấm dầu cho ráo bớt dầu thừa.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Thịt"]
+                        },
+
+                        {
+                        "id": "28",
+                        "title": "Thịt Kho Tàu",
+                        "description": "Món Thịt Kho Tàu (thịt kho trứng) là món ăn truyền thống, phổ biển trong những mâm cơm Tết người Việt. Cách làm món thịt kho tàu đơn giản, thịt kho chín mềm, trứng luộc ngấm vị đậm đà. Cùng Cooky tham khảo món ăn ngày Tết - thịt kho tàu cho mâm cơm những ngày đầu năm nhé. Chưa có món thịt kho tàu, là chưa thấy Tết đâu đấy.",
+                        "servings": "4",
+                        "time": 60,
+                        "image": "https://image.cooky.vn/recipe/g1/597/s640/recipe597-635887928354096853.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Thịt ba chỉ","unit":"g"},{"amount":"2","name":"Hành lá","unit":"nhánh"},{"amount":"1/2","name":"Hành tím băm","unit":"chén"},{"amount":"1","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"2","name":"Nước mắm","unit":"muỗng canh"},{"amount":"2","name":"Tiêu","unit":"muỗng cà phê"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Làm nước màu ướp thịt ba chỉ kho tiêu: Cho 1.5 muỗng cà phê đường và 3ml dầu ăn vào nồi đất, đun và dùng đũa khuấy đều cho đến khi đường cháy thành màu cánh kiến thì cho vào 40ml nước lọc, khuấy đều, tắt bếp.","step_order":1},{"description":"Rửa sạch thịt ba chỉ, cắt nhỏ vừa ăn rồi trộn đều với 1 muỗng cà phê tỏi băm, 2 muỗng canh nước mắm, 1/3 muỗng cà phê muối, 1 muỗng cà phê đường, 1/2 muỗng cà phê bột ngọt và 1 muỗng cà phê tiêu. Đổ thêm nước màu vừa đun vào thịt, ướp khoảng 10 phút.","step_order":2},{"description":"Cắt lấy đầu hành lá, chẻ nhỏ trang trí, phần lá cắt nhỏ.Cắt chóp đuôi của trái ớt nhỏ, tỉa hình hoa.","step_order":3},{"description":"Cách kho thịt ba chỉ: Trong nồi đất, đun nóng 2 muỗng canh dầu ăn rồi cho hành tím băm vào phi thơm. Dùng đũa gắp thịt đã ướp cho vào nồi, đảo đều tay.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Thịt"]
+                        },
+
+                        {
+                        "id": "29",
+                        "title": "Thịt Heo Kho Mắm Ruốc",
+                        "description": "Thịt Heo Kho Mắm Ruốc là món ăn ngon dễ làm, quen thuộc của bữa cơm gia đình Việt. Cách làm thịt kho mắm ruốc với những miếng thịt ba chỉ béo ngậy, quyện cùng vị mắm ruốc mặn ngọt, cay thơm đậm đà, cực hấp dẫn. Với cách làm thịt kho mắm ruốc thơm ngon này, nồi cơm cả nhà sẽ nhanh chóng hết veo đấy. Lưu lại công thức thịt kho mắm ruốc này mời gia đình nào.",
+                        "servings": "2",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g1/789/s640/recipe789-635533088099375547.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Thịt ba chỉ","unit":"g"},{"amount":"2","name":"Hành lá","unit":"nhánh"},{"amount":"1/2","name":"Hành tím băm","unit":"chén"},{"amount":"1","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"2","name":"Nước mắm","unit":"muỗng canh"},{"amount":"2","name":"Tiêu","unit":"muỗng cà phê"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Thịt ba rọi rửa sạch cắt vừa ăn. Các nguyên liệu như sả bằm, mắm ruốc, ớt sừng chuẩn bị sẵn. Mắm ruốc đánh tan với nước lọc, để lắng cặn rồi lọc lại cho sạch cát.","step_order":1},{"description":"Cách làm thịt kho mắm ruốc: Làm nóng dầu, cho sả vào phi vàng, tiếp đến cho ớt bằm vào. Cho thịt ba rọi vào trộn đều đến khi thịt hơi vàng. Cho mắm ruốc đã hòa tan vào, để lửa nhỏ kho cho thấm thịt. Thêm hai thìa cà phê ớt sa tế, trộn đều rồi nêm lại gia vị cho vừa ăn.","step_order":2},{"description":"Cắt lấy đầu hành lá, chẻ nhỏ trang trí, phần lá cắt nhỏ.Cắt chóp đuôi của trái ớt nhỏ, tỉa hình hoa.","step_order":3},{"description":"Cách kho thịt ba chỉ: Trong nồi đất, đun nóng 2 muỗng canh dầu ăn rồi cho hành tím băm vào phi thơm. Dùng đũa gắp thịt đã ướp cho vào nồi, đảo đều tay.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Thịt"]
+                        },
+
+                        {
+                        "id": "30",
+                        "title": "Thịt Bò Kho Tiêu",
+                        "description": "Bò sốt tiêu đen là một món vô dùng hấp dẫn. Những tưởng món ăn chế biến cầu kỳ phức tạp nhưng công thức lại vô cùng đơn giản. Thịt bò được tẩm ướp nhanh và đơn giản để giữ được vị ngọt tự nhiên, tươi mới. Sốt tiêu đen hấp dẫn chỉ với vài gia vị quen thuộc.",
+                        "servings": "4",
+                        "time": 30,
+                        "image": "https://image.cooky.vn/recipe/g2/15516/s640/recipe15516-635755034011938618.jpg",
+                        "ingredients":
+                            [{"amount":"300","name":"Thịt bò","unit":"g"},{"amount":"2","name":"Hành lá","unit":"nhánh"},{"amount":"1/2","name":"Hành tím băm","unit":"chén"},{"amount":"1","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"2","name":"Nước mắm","unit":"muỗng canh"},{"amount":"2","name":"Tiêu","unit":"muỗng cà phê"},{"amount":"1","name":"Nước tương","unit":"muỗng canh"},{"amount":"1/2","name":"Tỏi băm","unit":"muỗng cà phê"},{"amount":"4","name":"Gừng băm","unit":"muỗng canh"},{"amount":"2","name":"Dầu mè","unit":"muỗng canh"}]
+
+                        ,
+                        "steps":
+                            [{"description":"Làm nước màu ướp thịt ba chỉ kho tiêu: Cho 1.5 muỗng cà phê đường và 3ml dầu ăn vào nồi đất, đun và dùng đũa khuấy đều cho đến khi đường cháy thành màu cánh kiến thì cho vào 40ml nước lọc, khuấy đều, tắt bếp.","step_order":1},{"description":"Rửa sạch thịt ba chỉ, cắt nhỏ vừa ăn rồi trộn đều với 1 muỗng cà phê tỏi băm, 2 muỗng canh nước mắm, 1/3 muỗng cà phê muối, 1 muỗng cà phê đường, 1/2 muỗng cà phê bột ngọt và 1 muỗng cà phê tiêu. Đổ thêm nước màu vừa đun vào thịt, ướp khoảng 10 phút.","step_order":2},{"description":"Cắt lấy đầu hành lá, chẻ nhỏ trang trí, phần lá cắt nhỏ.Cắt chóp đuôi của trái ớt nhỏ, tỉa hình hoa.","step_order":3},{"description":"Cách kho thịt ba chỉ: Trong nồi đất, đun nóng 2 muỗng canh dầu ăn rồi cho hành tím băm vào phi thơm. Dùng đũa gắp thịt đã ướp cho vào nồi, đảo đều tay.","step_order":4},{"description":"Chuẩn bị một bát lớn, thêm nước sốt cà chua, đường, giấm, nước, xì dầu và bột bắp vào trộn đều cho đến khi lớp bột hòa đều không bị vón cục. Đây là phần nước sốt chua ngọt dùng để sốt cá.","step_order":5},{"description":"Làm nóng một chảo khác với chút dầu láng mặt, cho gừng, tỏi và hành tây vào phi thơm. Kế đến trút cà chua vào xào chung cho đến khi cà chua mềm thì thêm phần sốt chua ngọt đã chuẩn bị vào đảo đều. Đun nhỏ lửa cho đến khi hỗn hợp sốt hơi đặc sánh lại thì tắt lửa.","step_order":6}]
+                        ,
+                        "tags":
+                            ["Thịt"]
+                        }
+                ]
+            }
+
+
+        
+    
+        
